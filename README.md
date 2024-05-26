@@ -1,8 +1,8 @@
 <h1>Hi, I'm Evangeline! <br/><a href="https://github.com/OrangelineE">Programmer</a>, <a href="https://www.linkedin.com/in/jing-wang-34520628b/">ECE master student@Duke</a></h1>
 
 - 🌱 I’m currently working on MIT 6.S081 and gaining new insights on Operating Systems.
-- ⚡ Fun fact: I have won a prize in a singing competition!
 - 🔭 I’m looking to explore new opportunities and challenges in the tech field.
+- ⚡ Fun fact: I have won a prize in a singing competition!
 - 🌟 Also learning Korean because I'm a huge fan of KPOP!
 
 <h2>👩‍💻 Software Development Projects:</h2>
