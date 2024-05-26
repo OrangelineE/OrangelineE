@@ -8,7 +8,7 @@
 
 - <b>Full Stack Web App (Python, Flask, HTML/CSS, PostgresSQL)</b>
   - [Mini Amazon System](https://gitlab.oit.duke.edu/zy161/mini-amazon-skeleton)
-- <b>IOT (Software: Python, Flask, Postgres, AWS, HTML/CSS; Hardware: C++, ESP32, an OLED screen, a buzzer, LEDs, and humidity/temperature sensors)</b>
+- <b>IOT (Software: Python, Flask, Postgres, AWS, HTML/CSS + Hardware: C++, ESP32, an OLED screen, a buzzer, LEDs, and humidity/temperature sensors)</b>
   - [Smart Pillbox Software](https://github.com/OrangelineE/ECE590) 
   - [Smart Pillbox Hardware](https://github.com/Oliverz1206/Smart-Pillbox-Porject) 
 - <b>Java</b>
