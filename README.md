@@ -1,6 +1,4 @@
 <h1>Hi, I'm Evangeline! <br/><a href="https://github.com/OrangelineE">Programmer</a>, <a href="https://www.linkedin.com/in/jing-wang-34520628b/">ECE master student@Duke</a></h1>
-
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have won a prize in a singing competition!
 - 🌱 I’m currently learning Operating Systems and want to know more about it! Also learning Korean because I'm a huge fan of KPOP!
 
@@ -39,20 +37,6 @@
 [youtube]: https://www.youtube.com/channel/UCh4yg6MHZ0UAK4ttx-E5vdQ
 <!-- [instagram]: https://www.instagram.com/joshmadakor/ -->
 [linkedin]: https://www.linkedin.com/in/jing-wang-34520628b/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for Full-time jobs
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
 
 <!--
 **OrangelineE/OrangelineE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
