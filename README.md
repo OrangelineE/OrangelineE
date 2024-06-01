@@ -28,7 +28,7 @@
 - <b>Microsoft 2024 Imagine Cup -> semifinalist</b>
   - [BunnyBot(Azure service, NLP, Python, Flask)](https://github.com/OrangelineE/Azure-app)
 - <b>Duke Startup Showcase</b>
-  - [Carrole(JavaScript, HTML/CSS)](https://github.com/OrangelineE/OrangelineE.github.io)
+  - [Carrole(JavaScript, HTML/CSS)](https://orangelinee.github.io/CarRole/)
 
 <h2> 🤳 Connect with me:</h2>
 
