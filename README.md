@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently working on MIT 6.S081 and gaining new insights on Operating Systems.
 - 🔭 I’m looking to explore new opportunities and challenges in the tech field.
-- ⚡ Fun fact: I have won a prize in a singing competition!
-- 🌟 Also learning Korean because I'm a huge fan of KPOP!
+- ⚡ Fun fact: I'm learning Korean because I'm a huge fan of KPOP!
+- 👉 Feel free to checkout my Portfolio: https://orangelinee.github.io/
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
