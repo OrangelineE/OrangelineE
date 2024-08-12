@@ -4,6 +4,7 @@
 - 🔭 I’m looking to explore new opportunities and challenges in the tech field.
 - ⚡ Fun fact: I'm learning Korean because I'm a huge fan of KPOP!
 - 👉 Feel free to checkout my Portfolio: https://orangelinee.github.io/
+- ✌️ Also my blogs: https://github.com/OrangelineE/blogs
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
